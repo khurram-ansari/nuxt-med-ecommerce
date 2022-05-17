@@ -1,5 +1,5 @@
 <template>
-  <div class="border-gray-400 shadow-lg border-solid p-6 bg-white rounded-xl text-center mx-5 my-4">
+  <div class="border-gray-400 bg-primary-50 border-solid p-6 rounded-xl text-center mx-5 my-4">
     <div class="category-image my-4">
       <img class="mx-auto w-3/4" :src="category.image">
     </div>
